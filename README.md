@@ -9,7 +9,7 @@ A secure and user-friendly desktop application for generating strong passwords, 
 
 ## 📸 Screenshots
 
-![Password Generator Interface](https://via.placeholder.com/800x600/2980b9/ffffff?text=Password+Generator+Interface)
+![Password Generator Interface](Preview.png)
 
 ## ✨ Features
 
