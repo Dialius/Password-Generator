@@ -44,7 +44,7 @@ A secure and user-friendly desktop application for generating strong passwords, 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/Dialius/password-generator.git
    cd password-generator
    ```
 
@@ -195,12 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](/LICENSE) fil
 - SMK Telkom Purwokerto for the educational foundation
 - Microsoft for the excellent Windows Forms framework
 - The open-source community for inspiration
-
-## 🔗 Related Projects
-
-- [Password Strength Checker](https://github.com/example/password-checker)
-- [Secure Random Generator](https://github.com/example/secure-random)
-- [Windows Forms Utilities](https://github.com/example/winforms-utils)
 
 ---
 
