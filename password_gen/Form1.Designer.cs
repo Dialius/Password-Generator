@@ -289,6 +289,7 @@
             btnClear.TabIndex = 8;
             btnClear.Text = "Clear";
             btnClear.UseVisualStyleBackColor = false;
+            btnClear.Click += new System.EventHandler(this.btnClear_Click);
             // 
             // Form1
             // 
@@ -346,3 +347,4 @@
         private Button btnClear;
     }
 }
+
